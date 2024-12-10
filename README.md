@@ -14,13 +14,13 @@ Este projeto apresenta um **envelope interativo** que abre ao passar o mouse por
 
 ## 🎥 Demonstração  
 
-### Envelope Fechado  
+### Envelope Fechado
 
-![Envelope Fechado](/assets/Envelope%20fechado.png)  
+![Envelope Fechado](/assets/1.png)  
 
 ### Envelope Aberto  
 
-![Envelope Aberto](/assets/Envelope%20aberto.png)  
+![Envelope Aberto](/assets/2.png)  
 
 ## 📄 Como Executar  
 
